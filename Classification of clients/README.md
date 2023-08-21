@@ -12,4 +12,7 @@
 
 
 ## Навыки и инструменты
-Matplotlib, Pandas, Python, Scikit-learn
+* Matplotlib,
+*  Pandas,
+*  Python,
+*  Scikit-learn
