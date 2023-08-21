@@ -12,5 +12,7 @@
 Банковская сфера, Бизнес, Инвестиции, Кредитование
 
 ## Навыки и инструменты
-Matplotlib, Pandas, Scikit-learn
+* Matplotlib,
+* Pandas,
+* Scikit-learn
 
